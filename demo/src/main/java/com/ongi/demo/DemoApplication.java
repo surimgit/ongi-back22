@@ -8,9 +8,6 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-
-		// 테스트테스트
-
+		// branch test
 	}
-
 }
